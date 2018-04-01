@@ -13,7 +13,7 @@
 ## Beste Gameserver (Minecraft)
  1)GommeHD.net 2)PixelCookie.de 3)Ulticraft.de
  
- ### Erklärung von Gameservern 
+### Erklärung von Gameservern 
 
 ## PixelCookie
  Pixelcookie ist ein Minecraft gameserver der momentan nicht ganz ausgebaut hat aber bis jezt zwei Maps
